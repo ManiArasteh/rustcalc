@@ -1,16 +1,16 @@
-pub fn add(first: u64, second: u64) -> u64 {
+pub fn add(first: usize, second: usize) -> usize {
     first + second
 }
 
-pub fn remove(first: u64, second: u64) -> u64 {
+pub fn remove(first: usize, second: usize) -> usize {
     first - second
 }
 
-pub fn multiply(first: u64, second: u64) -> u64 {
+pub fn multiply(first: usize, second: usize) -> usize {
     first * second
 }
 
-pub fn divide(first: u64, second: u64) -> u64 {
+pub fn divide(first: usize, second: usize) -> usize {
     first / second
 }
 

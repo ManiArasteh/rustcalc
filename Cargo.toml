@@ -3,7 +3,6 @@ name = "mathcalculate"
 version = "0.1.0"
 keywords = ["math", "calculation"]
 edition = "2021"
-license-file = "LICENSE"
 license = "MIT"
 description = "My first Rust library"
 readme = "README.md"
