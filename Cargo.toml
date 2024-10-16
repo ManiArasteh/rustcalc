@@ -1,11 +1,11 @@
 [package]
 name = "mathcalculate"
-version = "0.1.1"
+version = "0.1.1.1"
 keywords = ["math", "calculation"]
 edition = "2021"
 license = "MIT"
 description = "My first Rust library"
 readme = "README.md"
-repository = "https://github.com/librespot-org/rustcalc"
+repository = "https://github.com/ManiArasteh/rustcalc"
 
 [dependencies]
