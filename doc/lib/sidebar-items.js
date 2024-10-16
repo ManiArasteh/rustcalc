@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["add","divide","multiply","remove"]};
